@@ -2,7 +2,7 @@
 
 /**
  * selection_sort - Sorts an array of integers in ascending order.
- * 
+ *
  * @array: A pointer to the array.
  * @size: Size of the array.
  */
